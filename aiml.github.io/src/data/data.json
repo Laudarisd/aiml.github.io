@@ -1,22 +1,22 @@
 {
   "Header": {
-    "title": "AI & Machine Learning",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  "title": "Empowering Innovation with AI & Machine Learning",
+  "paragraph": "Harnessing the transformative power of AI and Machine Learning to drive solutions for complex problems. From automating processes to uncovering hidden insights, we innovate at the intersection of technology and real-world challenges."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+  "paragraph": "At the forefront of technological innovation, we specialize in developing AI and machine learning solutions that tackle the toughest challenges across industries. Our expertise spans everything from predictive analytics and natural language processing to advanced image recognition. By leveraging state-of-the-art algorithms and high-performance computing, we deliver insights that empower businesses to make smarter, data-driven decisions. Our mission is to push the boundaries of what's possible with AI, creating systems that learn, adapt, and evolve to meet tomorrow's demands.",
+  "Why": [
+    "Cutting-edge AI algorithms",
+    "Scalable machine learning models",
+    "Data-driven decision making",
+    "Transformative technology solutions"
+  ],
+  "Why2": [
+    "Industry-leading innovation",
+    "Real-world problem-solving",
+    "Advanced data analytics",
+    "High-performance computing solutions"
+  ]
   },
   "Gallery": [
     {
