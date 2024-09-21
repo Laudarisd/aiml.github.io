@@ -162,23 +162,24 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "AI-Powered Insights",
+      "text": "Unlock hidden patterns in your data with cutting-edge AI algorithms designed to enhance decision-making through advanced predictive analytics."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Scalable Machine Learning",
+      "text": "Our scalable machine learning models adapt to your business needs, allowing you to process large datasets with speed and efficiency, no matter the scale."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Custom Solutions",
+      "text": "We develop tailored AI and machine learning solutions that address your specific challenges, ensuring optimal performance and measurable impact."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "High-Performance Computing",
+      "text": "Harness the power of high-performance computing to run complex models faster and more efficiently, turning massive datasets into actionable insights in real time."
     }
   ]
+
 }
