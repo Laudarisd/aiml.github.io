@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aiml.github.io/static/css/main.ae42ac5f.css",
-    "main.js": "/aiml.github.io/static/js/main.01421f2f.js",
+    "main.js": "/aiml.github.io/static/js/main.ecbe5004.js",
     "index.html": "/aiml.github.io/index.html",
     "main.ae42ac5f.css.map": "/aiml.github.io/static/css/main.ae42ac5f.css.map",
-    "main.01421f2f.js.map": "/aiml.github.io/static/js/main.01421f2f.js.map"
+    "main.ecbe5004.js.map": "/aiml.github.io/static/js/main.ecbe5004.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.01421f2f.js"
+    "static/js/main.ecbe5004.js"
   ]
 }
